@@ -1,5 +1,5 @@
-# Manage your .dotfiles with a simple tool Storing and managing your dotfiles in
-GitHub repository seems to be a good idea.
+# Manage your .dotfiles with a simple tool
+Storing and managing your dotfiles in a git repository seems to be a good idea.
 
 * GitHub has adopted this practice for GitHub Codespaces
 * There are popular dotfiles collections hosted on GitHub, such as:
